@@ -6,7 +6,7 @@
 ### <div align="center">I'm Maanikya Acharya, a budding Computer Science Engineer. My interests are in Full Stack Development, Networking, Cloud Deployment and DevOps.</div>  
   
 
-- 🔭 I’m currently working on Anime Streaming Website (https://animaxapp.com) and Bird Classification using Deep Learning.  
+- 🔭 I’m currently working on File Sharing Website (https://filepass.vercel.app).  
   
 
 - 🌱 I’m currently learning ReactJS and Pentesting.  
