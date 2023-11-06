@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on File Sharing Website (https://filepass.vercel.app).  
   
 
-- 🌱 I’m currently learning ReactJS and Pentesting.  
+- 🌱 I’m currently learning ReactJS and Cloud.  
   
 
-- ❓ Ask me about Web Development, Networking.  
+- ❓ Ask me about Web Development, Cloud.  
   
 
 - ⚡ Fun fact: I stress importance on indentation.  
